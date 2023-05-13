@@ -1,0 +1,67 @@
+{
+  "name": "alpha's repo",
+  "icon": "RepoImage.png",
+  "path": "emojis",
+  "emotes": [
+    {
+      "name": "ene",
+      "type": ".gif"
+    },
+    {
+      "name": "ayameDespair",
+      "type": ".gif"
+    },
+    {
+      "name": "ayameSmug",
+      "type": ".gif"
+    },
+    {
+      "name": "ayameNonono",
+      "type": ".gif"
+    },
+    {
+      "name": "ayameShiver",
+      "type": ".gif"
+    },
+    {
+      "name": "ayameUltraDespair",
+      "type": ".png"
+    },
+    {
+      "name": "guraA",
+      "type": ".gif"
+    },
+    {
+      "name": "guraJam",
+      "type": ".gif"
+    },
+    {
+      "name": "guraOwO",
+      "type": ".png"
+    },
+    {
+      "name": "guraWhat",
+      "type": ".png"
+    },
+    {
+      "name": "guraPat",
+      "type": ".gif"
+    },
+    {
+      "name": "guraPeek",
+      "type": ".gif"
+    },
+    {
+      "name": "guraAyaya",
+      "type": ".png"
+    },
+    {
+      "name": "guraAnguish",
+      "type": ".png"
+    },
+    {
+      "name": "guraAwoo",
+      "type": ".png"
+    }
+  ]
+}
